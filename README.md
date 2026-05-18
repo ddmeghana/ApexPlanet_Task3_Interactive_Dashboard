@@ -8,6 +8,9 @@ The objective of this task was to analyze complex business problems using advanc
 
 ---
 
+## EDA & BI was done in task 2 
+## repo link for task 2 --> https://github.com/ddmeghana/ApexPlanet_Task2_Superstore_EDA.git
+
 # 🎯 Project Objective
 
 The primary goals of this project were to:
